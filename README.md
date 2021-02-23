@@ -1,10 +1,12 @@
-# CONCEITOS BÁSICOS DE MOBX COM REACT
+# APP REACTJS
 
-## GERENCIAMENTO DE ESTADO GLOBAL EM APP REACTJS
+## INTEGRANDO MOBX COM A CONTEXT API E TYPESCRIPT
 
-- Mobx é muito parecido com o Redux em termos de funcionalidades, porém sendo um
-  pouco mais dinâmico, flexível e fácil de entender. Essa estrutura flexível viabiliza
-  o uso do Mobx tanto em projetos pequenos quanto em projetos mais complexos.
+- Exemplo que abrange e implementauma Lista de Tarefas usando o MobX em conjunto com a
+  Context API do React e também com Typescript.
+
+- A ideia é exemplificar o uso do MobX com React sem precisar
+  passar a Store como uma propriedade.
 
   #### Para saber mais acesse --> Site Mobx: https://mobx.js.org
 
