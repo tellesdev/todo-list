@@ -14,8 +14,8 @@
 
 ### Tela de listagem das tarefas
 
-![](https://github.com/tellesdev/NLW4/blob/master/public/img/capa.png)
+![](https://github.com/tellesdev/todo-list/blob/master/public/img/listar.png)
 
 ### Tela de inclusão
 
-![](https://github.com/tellesdev/NLW4/blob/master/public/img/capa.png)
+![](https://github.com/tellesdev/todo-list/blob/master/public/img/incluir.png)
