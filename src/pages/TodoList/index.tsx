@@ -11,7 +11,7 @@ const TodoList: React.FC = () => {
 
   return (
     <>
-    <div className="alert alert-dark">
+    <div className="alert alert-dark mt-4">
       <div className="d-inline col-4">
         Total de tarefas: &nbsp;
         <span className="badge badge-info">{info.total}</span>
@@ -49,10 +49,10 @@ const TodoList: React.FC = () => {
                   }
                 </td>
                 <td>
-                  <button className="btn btn-sm btn-info" onClick={() => toggleTodo(todo.id)}>
+                  <button className="btn btn-sm btn-info mx-2" onClick={() => toggleTodo(todo.id)}>
                     Toggle
                   </button>
-                  <button className="btn btn-sm btn-danger" onClick={() => toggleTodo(todo.id)}>
+                  <button className="btn btn-sm btn-danger mx-2" onClick={() => toggleTodo(todo.id)}>
                     Remove
                   </button>
                 </td>
